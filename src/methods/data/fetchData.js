@@ -7,3 +7,4 @@ const getNews = async () => {
          setNews(data);
       })
 };
+
